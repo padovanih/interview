@@ -1,8 +1,9 @@
 ## Backspace String Compare
 
-- Given two strings `s` and `t`, return `true` if they are equal when both are typed into empty text editors. 
-- The character `'#'` means a backspace character.
-- Note that after backspacing an empty text, the text will continue empty.
+- Given two strings `s` and `t`
+- Return `true` if they are equal when both are typed into empty text editors
+- The character `'#'` means a backspace character
+- Note that after backspacing an empty text, the text will continue empty
 
 ### Example 1:
 
